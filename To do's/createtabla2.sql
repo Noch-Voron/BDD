@@ -21,3 +21,5 @@ with
     tablock
 )
 
+ALTER TABLE movies
+ADD Id INT IDENTITY(1,1) PRIMARY KEY
