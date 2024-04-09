@@ -1,5 +1,5 @@
 create table series(
-	Id float,
+	Id float PRIMARY KEY,
 	Title varchar(100),
 	Episodes float,
 	Year varchar(50),
