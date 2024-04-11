@@ -2,8 +2,9 @@ Nombre: Cristóbal Espinzoa Latorre
 Rol: 202273565-1
 
 Nombre: Pamela Sánchez Jara
-Rol: -
+Rol: 202273758-4
 
 Supuestos hechos:
--Para varios To do se menciona Películas animadas y series animadas, asumimos que esto se refiere a 
+- Para varios To do se menciona Películas animadas y series animadas, asumimos que esto se refiere a 
 la tabla creada en base al archivo 'Animated_TV_Series'.
+- Para el To do 10 se asume que una película mal evaluada según IMDb, es cuando la calificación recibida es menor a 4.0
