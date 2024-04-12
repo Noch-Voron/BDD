@@ -1,5 +1,5 @@
 DELETE FROM series
-WHERE IMDb < 4
+WHERE IMDb < 3
 
 DELETE FROM movies
-WHERE stars < 4
+WHERE stars < 3
