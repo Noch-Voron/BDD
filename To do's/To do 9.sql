@@ -10,5 +10,5 @@ from (
     from series
     where IMDb > 7.5
 ) as RankedSeries
-where RowNum <= 5
+where RowNum <= 5 and Canal is not null
 order by Canal, IMDb desc;
