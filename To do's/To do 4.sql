@@ -1,4 +1,5 @@
-select count(*) as 'Cantidad por Año', LEFT(year,4) as 'Año Inicial'
+select count(*) as 'Cantidad por AÃ±o', LEFT(year,4) as 'AÃ±o_Inicial'
 from series
 group by left(year,4)
-order by Año_Inicial asc;
+having count(*) > 5
+order by AÃ±o_Inicial asc;
