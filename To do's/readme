@@ -5,7 +5,8 @@ Nombre: Pamela Sánchez Jara
 Rol: 202273758-4
 
 Instrucciones de uso:
-- En las 
+- En los archivos 'createtable_movies' y 'createtable_series' debe modificar poniendo su donde se encuentren los archivos 
+final_movies.csv y Animated_Tv_Series.csv respectvamente
 
 Supuestos hechos:
 - Para varios To do se menciona Películas animadas y series animadas, asumimos que esto se refiere a 
