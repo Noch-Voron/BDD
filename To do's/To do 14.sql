@@ -1,3 +1,3 @@
 SELECT *
-FROM series INNER JOIN movies 
-ON series.Title = movies.title AND movies.released_year = CONVERT(int, SUBSTRING(series.Year,1,4)) AND runtime IS NOT NULL AND Episodes IS NOT NULL
+FROM AnimationTable
+WHERE runtime IS NOT NULL AND Episodios = 1 AND Episodios IS NOT NULL;
