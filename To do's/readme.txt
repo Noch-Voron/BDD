@@ -11,7 +11,8 @@ archivos final_movies.csv y Animated_Tv_Series.csv respectivamente, para poder c
 2. Debe crear otra tabla ejecutando el archivo 'CrearTablaAnimation' después de haber creado ambas tablas anteriores.
 3. Para probar cada To do solo debe abrirlo y poner Execute.
 
-*Luego de ejecutar el 'To do 10', para seguir probando los To do faltantes, debe borrar las tablas de series y movies ejecutando borrartablas.sql y luego volver a crearlas.
+*Luego de ejecutar el 'To do 10', para seguir probando los To do faltantes, debe borrar las tablas de series y movies ejecutando 
+borrartablas.sql y luego volver a crearlas siguiendo el punto 1.
 
 Supuestos hechos:
 - Para varios To do se menciona Películas animadas y series animadas, asumimos que esto se refiere a 
