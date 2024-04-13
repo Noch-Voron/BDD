@@ -1,1 +1,1 @@
-select Title from movies;
+select Title from series;
