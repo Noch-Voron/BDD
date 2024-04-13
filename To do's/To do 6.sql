@@ -1,2 +1,3 @@
-select Title as Título, Technique as 'Técnica', Original_channel as 'Canal Original' from series 
-	where Original_channel = 'Cartoon Network'
+select Title as TÃ­tulo, Technique as 'TÃ©cnica', Original_channel as 'Canal Original' 
+from series 
+where Original_channel = 'Cartoon Network';
