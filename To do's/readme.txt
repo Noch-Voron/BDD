@@ -1,8 +1,10 @@
 Nombre: Cristóbal Espinzoa Latorre
 Rol: 202273565-1
+Parlalelo: 201
 
 Nombre: Pamela Sánchez Jara
 Rol: 202273758-4
+Paralelo: 200
 
 Instrucciones de uso:
 
